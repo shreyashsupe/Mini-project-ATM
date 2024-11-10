@@ -135,7 +135,6 @@ int main() {
                     case 1:
                         cout << endl << "Your Bank balance is: " << user1.getBalance();
                         getchar();
-                        break;
 
                     case 2:
                         cout << endl << "Enter the amount: ";
